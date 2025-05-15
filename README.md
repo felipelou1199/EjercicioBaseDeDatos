@@ -17,5 +17,5 @@ Desde MySQL WorkBench importar la base de datos mysqlsampledatabase.sql
       c. Crear la vista con la consulta del paso previo
 
 5. Subir todo al repositorio y mostrar la imagen del diagrama en este README.md
-
+![Diagrama del ejercicio](https://raw.githubusercontent.com/felipelou1199/EjercicioBaseDeDatos/refs/heads/main/DiagramaEjercicio1.png)
 ---
